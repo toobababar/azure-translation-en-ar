@@ -21,7 +21,7 @@ This is a simple Python application that uses the **Azure Text Translation SDK**
 
    ```bash
    git clone https://github.com/toobababar/azure-translation-en-ar.git
-   cd azure-english-arabic-translator
+   cd azure-translation-en-ar
 
 2. **Create and activate a virtual environment**
 

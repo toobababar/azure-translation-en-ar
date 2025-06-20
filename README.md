@@ -52,12 +52,12 @@ This is a simple Python application that uses the **Azure Text Translation SDK**
 
 ### Input
 
-    ```bash
+    
     "Hello, how are you?"
 
 ### Output
 
-    ```bash
+    
                                                                                                                         "مرحبًا، كيف حالك؟"  
 
 ## Security

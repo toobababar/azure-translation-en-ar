@@ -1,6 +1,6 @@
-# English to Arabic Translator using Azure AI SDK
+# English to Arabic Translator using Azure Text Translation SDK
 
-This is a simple Python application that uses the **Azure Translator service SDK** to translate English text into Arabic. It leverages Azure's powerful AI translation capabilities and is ideal for experimenting with cloud-based NLP.
+This is a simple Python application that uses the **Azure Text Translation SDK** to translate English text into Arabic. It leverages Azure's powerful AI translation capabilities and is ideal for experimenting with cloud-based NLP.
 
 ## Features
 
@@ -20,7 +20,7 @@ This is a simple Python application that uses the **Azure Translator service SDK
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/azure-english-arabic-translator.git
+   git clone https://github.com/toobababar/azure-translation-en-ar.git
    cd azure-english-arabic-translator
 
 2. **Create and activate a virtual environment**
@@ -46,7 +46,7 @@ This is a simple Python application that uses the **Azure Translator service SDK
 5. **Run the script**
 
    ```bash
-   python translator.py
+   en-to-ar.py
 
 ## Example
 

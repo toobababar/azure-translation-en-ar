@@ -53,12 +53,14 @@ This is a simple Python application that uses the **Azure Translator service SDK
 
 ## Example
 
-###Input
+### Input
 
+```bash
 "Hello, how are you?"
 
-###Output
+### Output
 
+```bash
                                                                                                                             "مرحبًا، كيف حالك؟"
 
 ## Security

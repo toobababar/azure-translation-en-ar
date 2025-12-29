@@ -1,4 +1,4 @@
-# English-to-Arabic Translation Engine (Azure Text trnslation SDK)
+# English-to-Arabic Translation Engine (Azure Text translation SDK)
 
 A Python-based translation engine that converts English text into Arabic using the Azure Text Translation SDK. Designed for integration into business workflows, content localization pipelines, or multilingual communication systems, this engine provides fast, reliable, and scalable translation.
 

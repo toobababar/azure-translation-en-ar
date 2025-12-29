@@ -1,6 +1,6 @@
-# English to Arabic Translator using Azure Text Translation SDK
+# English-to-Arabic Translation Engine (Azure Text trnslation SDK)
 
-This is a simple Python application that uses the **Azure Text Translation SDK** to translate English text into Arabic. It leverages Azure's powerful AI translation capabilities and is ideal for experimenting with cloud-based NLP.
+A Python-based translation engine that converts English text into Arabic using the Azure Text Translation SDK. Designed for integration into business workflows, content localization pipelines, or multilingual communication systems, this engine provides fast, reliable, and scalable translation.
 
 ## Features
 
@@ -8,6 +8,13 @@ This is a simple Python application that uses the **Azure Text Translation SDK**
 - Supports `.env` configuration for secure API key handling
 - Easy setup with `requirements.txt`
 - Clean and minimal Python script
+
+## Use Cases
+
+- Automate multilingual support for web and mobile platforms.
+- Streamline content localization for marketing or documentation.
+- Enable customer support messaging in Arabic without manual translation.
+- Serve as a backend translation module in larger AI/NLP pipelines.
 
 ## Requirements
 
